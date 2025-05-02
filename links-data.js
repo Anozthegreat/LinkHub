@@ -136,5 +136,13 @@ var links = [
         description: 'Organized and publicly available collection.',
         dateAdded: '2024-03-05'
     }
+    {
+        id: 18,
+        title: 'Itch.io',
+        url: 'https://itch.io/',
+        category: 'game',
+        description: 'A simple way to find and share indie games online for free.',
+        dateAdded: '2024-03-08'
+    }
     
 ];
