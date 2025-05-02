@@ -151,6 +151,14 @@ var links = [
         category: 'education',
         description: 'Project Gutenberg is a library of over 75,000 free eBooks.',
         dateAdded: '2024-03-09'
+    },
+    {
+        id: 20,
+        title: 'Warsow',
+        url: 'https://warsow.net/',
+        category: 'education',
+        description: 'Warsow is a free fast-paced first-person shooter (FPS) for Windows, Linux and macOS.',
+        dateAdded: '2024-03-14'
     }
     
 ];
