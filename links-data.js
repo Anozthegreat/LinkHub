@@ -135,7 +135,7 @@ var links = [
         category: 'game',
         description: 'Organized and publicly available collection.',
         dateAdded: '2024-03-05'
-    }
+    },
     {
         id: 18,
         title: 'Itch.io',
@@ -143,8 +143,8 @@ var links = [
         category: 'game',
         description: 'A simple way to find and share indie games online for free.',
         dateAdded: '2024-03-08'
-    }
-{
+    },
+    {
         id: 19,
         title: 'Project Gutenberg',
         url: 'https://gutenberg.org/',
