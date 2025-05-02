@@ -133,7 +133,7 @@ var links = [
         title: 'Myrient',
         url: 'https://myrient.erista.me/',
         category: 'game',
-        description: 'Organized and publicly available video game collections.',
+        description: 'Organized and publicly available collection.',
         dateAdded: '2024-03-05'
     }
     
