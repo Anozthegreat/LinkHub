@@ -295,5 +295,37 @@ var links = [
         category: 'development',
         description: 'Performant Game Engine, fork of Godot.',
         dateAdded: '2024-10-21'
+    },
+    {
+        id: 38,
+        title: 'Blender',
+        url: 'https://www.blender.org/',
+        category: 'design',
+        description: 'Open source 3D modelling tool.',
+        dateAdded: '2024-10-21'
+    },
+    {
+        id: 39,
+        title: 'V Roid Studio',
+        url: 'https://vroid.com/en/studio',
+        category: 'design',
+        description: 'Free 3D Character Creation Software.',
+        dateAdded: '2024-10-21'
+    },
+    {
+        id: 40,
+        title: 'TV garden',
+        url: 'https://tv.garden/',
+        category: 'entertainment',
+        description: 'Free IPTV web player.',
+        dateAdded: '2024-10-21'
+    },
+    {
+        id: 40,
+        title: 'Stremio',
+        url: 'https://www.stremio.com/',
+        category: 'entertainment',
+        description: 'Stremio offers a secure, modern and seamless entertainment experience.',
+        dateAdded: '2024-10-21'
     }
 ];
