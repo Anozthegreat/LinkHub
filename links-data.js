@@ -34,10 +34,10 @@ var links = [
     },
     {
         id: 5,
-        title: 'YouTube',
-        url: 'https://youtube.com',
-        category: 'entertainment',
-        description: 'Watch and share videos',
+        title: 'Project Gutenberg',
+        url: 'https://www.gutenberg.org/',
+        category: 'education',
+        description: 'Project Gutenberg is a library of over 75,000 free eBooks',
         dateAdded: '2023-03-18'
     },
     {
@@ -159,6 +159,141 @@ var links = [
         category: 'game',
         description: 'Warsow is a free fast-paced first-person shooter (FPS) for Windows, Linux and macOS.',
         dateAdded: '2024-03-14'
+    },
+    {
+        id: 21,
+        title: 'Unciv',
+        url: 'https://github.com/yairm210/Unciv',
+        category: 'game',
+        description: 'Open-source Android/Desktop remake of Civ V.',
+        dateAdded: '2024-03-21'
+    },
+    {
+        id: 22,
+        title: 'Project Ignis',
+        url: 'https://projectignis.github.io/index.html',
+        category: 'game',
+        description: 'The open-source automatic duel simulator.',
+        dateAdded: '2024-07-21'
+    },
+    {
+        id: 23,
+        title: 'Jan AI',
+        url: 'https://jan.ai/',
+        category: 'productive',
+        description: 'Chat with AI without any privacy concerns.',
+        dateAdded: '2024-07-21'
+    },
+    {
+        id: 24,
+        title: 'ImageResizer',
+        url: 'https://imageresizer.com/',
+        category: 'design',
+        description: 'Easily resize images online for free.',
+        dateAdded: '2024-07-21'
+    },
+    {
+        id: 25,
+        title: 'BlackJack21',
+        url: 'https://anozthegreat.github.io/BlackJack-21/',
+        category: 'game',
+        description: 'Easily play BlackJack21 online for free.',
+        dateAdded: '2024-07-21'
+    },
+    {
+        id: 26,
+        title: 'PixilArt',
+        url: 'https://www.pixilart.com/draw',
+        category: 'development',
+        description: 'Draw pixel art for free.',
+        dateAdded: '2024-07-21'
+    },
+    {
+        id: 27,
+        title: 'Sacred Texts Archive',
+        url: 'https://sacred-texts.com/',
+        category: 'education',
+        description: 'Books Archive about Religion, philosophy etc..',
+        dateAdded: '2024-09-21'
+    },
+    {
+        id: 28,
+        title: 'PokeMMO',
+        url: 'https://pokemmo.com/en/',
+        category: 'game',
+        description: 'Welcome to a new era of online monster battles.',
+        dateAdded: '2024-09-21'
+    },
+    {
+        id: 29,
+        title: 'GB Studio',
+        url: 'https://www.gbstudio.dev/',
+        category: 'development',
+        description: 'Free Game Engine for retro-game development.',
+        dateAdded: '2024-09-21'
+    },
+    {
+        id: 30,
+        title: 'Renpy',
+        url: 'https://www.renpy.org/',
+        category: 'development',
+        description: 'Free Game Engine for Visual Novel creation.',
+        dateAdded: '2024-09-21'
+    },
+    {
+        id: 31,
+        title: 'PPSSPP',
+        url: 'https://www.ppsspp.org/',
+        category: 'game',
+        description: 'Free PSP emulator for many platforms.',
+        dateAdded: '2024-09-21'
+    },
+    {
+        id: 32,
+        title: 'PCSX2',
+        url: 'https://pcsx2.net/',
+        category: 'game',
+        description: 'Free PS2 emulator for desktop.',
+        dateAdded: '2024-09-21'
+    },
+    {
+        id: 33,
+        title: 'Solarus',
+        url: 'https://www.solarus-games.org/',
+        category: 'development',
+        description: 'A lightweight, multiplatform, free and open-source 2D game engine.',
+        dateAdded: '2024-09-21'
+    },
+    {
+        id: 34,
+        title: 'Internet Archive',
+        url: 'https://archive.org/',
+        category: 'education',
+        description: 'Non-profit library of millions of free texts, movies, software, music etc.',
+        dateAdded: '2024-09-21'
+    },
+    {
+        id: 35,
+        title: 'Quaternius',
+        url: 'https://quaternius.com/',
+        category: 'development',
+        description: 'Free 3D assets for development.',
+        dateAdded: '2024-10-21'
+    },
+    {
+        id: 36,
+        title: 'LLamafile-AI',
+        url: 'https://github.com/Mozilla-Ocho/llamafile',
+        category: 'productivity',
+        description: 'Resource friendly offline AI tool.',
+        dateAdded: '2024-10-21'
+    },
+    {
+        id: 37,
+        title: 'Redot Engine',
+        url: 'https://www.redotengine.org/',
+        category: 'development',
+        description: 'Performant Game Engine, fork of Godot.',
+        dateAdded: '2024-10-21'
     }
-    
 ];
