@@ -284,7 +284,7 @@ var links = [
         id: 36,
         title: 'LLamafile-AI',
         url: 'https://github.com/Mozilla-Ocho/llamafile',
-        category: 'productivity',
+        category: 'productive',
         description: 'Resource friendly offline AI tool.',
         dateAdded: '2024-10-21'
     },
